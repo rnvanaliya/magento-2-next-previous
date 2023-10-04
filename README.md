@@ -84,7 +84,7 @@ In "Sort position" select "Ascending" or "Descending" to define the product show
 
 ![Magento 2 Next Previous Extension](https://github.com/magepow/magento-2-next-previous/blob/master/Media/magento-2-next-and-previous-5.png)
 
-With the ro version you need to install the following features:
+With the Pro version you need to install the following features:
 
 ![Magento 2 Next Previous Extension](https://github.com/magepow/magento-2-next-previous/blob/master/Media/magento-2-next-and-previous.png)
 
